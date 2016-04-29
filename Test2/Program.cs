@@ -12,6 +12,12 @@ namespace Test2
         {
             Console.WriteLine("Hello GitHub!");
             Console.WriteLine("And goodbye!");
+            Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("And goodbye!");
+            Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("And goodbye!");
+            Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("And goodbye!");
         }
     }
 }
